@@ -10,7 +10,7 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
-
+package-lock.jsongit
 
 
 ############################
@@ -32,7 +32,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-package-lock.json
+
 
 ############################
 # Packages
